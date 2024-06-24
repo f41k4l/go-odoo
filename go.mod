@@ -1,4 +1,4 @@
-module github.com/skilld-labs/go-odoo
+module github.com/f41k4l/go-odoo
 
 go 1.22
 
