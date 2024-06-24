@@ -1,10 +1,10 @@
 module github.com/skilld-labs/go-odoo
 
-go 1.18
+go 1.22
 
 require (
 	github.com/iancoleman/strcase v0.2.0
-	github.com/kolo/xmlrpc v0.0.0-20201022064351-38db28db192b
+	github.com/kolo/xmlrpc v0.0.0-20220921171641-a4b6fa1dd06b
 	github.com/spf13/cobra v1.5.0
 )
 
